@@ -4,7 +4,7 @@ Hi 👋 My name is Sagar Kaushik
 
 Python Full Stack Web Developer
 
--------------------------------![savage831998]
+-------------------------------
 
 
 My professional area of expertise is Web development. I have been developing web application using Python, Django and Frontend programming languages. I'm involved in all phases of the programming cycle, from planning to designing to testing to deployment. Each day is different for me; I may analyze algorithms, modify code, fix bugs, come up with ideas, or introduce new systems. I enjoy working with people from different disciplines when I program. As someone who loves to build new relationships and is very involved in the Web development lifecycle, it is rewarding to be able to spend time with other professionals who are striving toward the same goal. In my current course of study, I'm studying Full Stack Development with Python and Django Framework Skills: Python, Django, MongoDB, HTML, CSS, JavaScript, AWS, Azure, data structures, one text editors, coding, SQL, Visual Studio Code, Adobe Photoshop, Adobe After Effects, Adobe Premier Pro, Blender 3d(Basic), Motion Graphics
