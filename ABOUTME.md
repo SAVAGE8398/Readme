@@ -19,6 +19,7 @@ src="https://img.shields.io/twitter/follow/KILLERDEVIL14?logo=twitter&style=for-
 src="https://img.shields.io/github/followers/SAVAGE8398?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" /></a><a href="https://www.twitch.tv/savage8398" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/savage8398?logo=twitchsx&style=for-the-badge&color=10b981&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 ### Skills
+<a href="https://app.daily.dev/savage831998"><img src="https://api.daily.dev/devcards/e3b808aa7115416e8a385317ef3385ed.png?r=4x6" width="400" alt="Sagar Kaushik's Dev Card"/></a>
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
