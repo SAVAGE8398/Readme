@@ -3,7 +3,9 @@ Hi 👋 My name is Sagar Kaushik
 ==============================
 
 Python Full Stack Web Developer
--------------------------------
+
+-------------------------------![savage831998](https://user-images.githubusercontent.com/96810782/174604003-8044243c-d03e-48ae-a9a3-dbc2f2ba8f94.png)
+
 
 My professional area of expertise is Web development. I have been developing web application using Python, Django and Frontend programming languages. I'm involved in all phases of the programming cycle, from planning to designing to testing to deployment. Each day is different for me; I may analyze algorithms, modify code, fix bugs, come up with ideas, or introduce new systems. I enjoy working with people from different disciplines when I program. As someone who loves to build new relationships and is very involved in the Web development lifecycle, it is rewarding to be able to spend time with other professionals who are striving toward the same goal. In my current course of study, I'm studying Full Stack Development with Python and Django Framework Skills: Python, Django, MongoDB, HTML, CSS, JavaScript, AWS, Azure, data structures, one text editors, coding, SQL, Visual Studio Code, Adobe Photoshop, Adobe After Effects, Adobe Premier Pro, Blender 3d(Basic), Motion Graphics
 
@@ -12,6 +14,7 @@ My professional area of expertise is Web development. I have been developing web
 * 🧠  I'm learning Django & JavaScript Framework
 * 🤝  I'm open to collaborating on Any Web Project
 * ⚡  Fake It TILL You MAKE IT
+* <a href="https://app.daily.dev/savage831998"><img src="https://api.daily.dev/devcards/e3b808aa7115416e8a385317ef3385ed.png?r=4x6" width="400" alt="Sagar Kaushik's Dev Card"/></a>
 
 <a href="https://www.twitter.com/KILLERDEVIL14" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/KILLERDEVIL14?logo=twitter&style=for-the-badge&color=10b981&labelColor=1c1917"
@@ -19,7 +22,7 @@ src="https://img.shields.io/twitter/follow/KILLERDEVIL14?logo=twitter&style=for-
 src="https://img.shields.io/github/followers/SAVAGE8398?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" /></a><a href="https://www.twitch.tv/savage8398" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/savage8398?logo=twitchsx&style=for-the-badge&color=10b981&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 ### Skills
-<a href="https://app.daily.dev/savage831998"><img src="https://api.daily.dev/devcards/e3b808aa7115416e8a385317ef3385ed.png?r=4x6" width="400" alt="Sagar Kaushik's Dev Card"/></a>
+
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
